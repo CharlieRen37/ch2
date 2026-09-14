@@ -24,6 +24,6 @@ public class Time{
 		System.out.println("%");
 		System.out.print("Time Since Exercise Started: ");
 		System.out.print(time_since_start);
-		System.out.print("Seconds");
+		System.out.print(" Seconds");
 	}
 }
