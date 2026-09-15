@@ -17,9 +17,9 @@ public class Time{
 		time_since_start = (hour-13) * 3600 + (minute-13) * 60 + (second-30);
 		System.out.print("Seconds Passed: ");
 		System.out.println(second_passed);
-		System.out.print("Seconds Remaining");
+		System.out.print("Seconds Remaining: ");
 		System.out.println(second_remaining);
-		System.out.print("Percentage of Day Passed");
+		System.out.print("Percentage of Day Passed: ");
 		System.out.print(day_percent);
 		System.out.println("%");
 		System.out.print("Time Since Exercise Started: ");
